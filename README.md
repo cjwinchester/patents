@@ -1,12 +1,12 @@
 # U.S. patent scraper
 
-A Python CLI utility to fetch data on patents recently awarded to inventors in {{ your city }).
+A Python CLI utility to fetch data on patents recently awarded to inventors in `{{ your city }}`.
 
 ### Why tho
 What else am I going to hook up to this cron job and this Slack channel?
 
 ### Why not use the API, dingus
-It looks likt the Patent and Trademark Office's new API is only [updated once every two months](http://www.patentsview.org/api/faqs.html). The [ancient, creaking web service](http://patft.uspto.gov/netahtml/PTO/search-adv.htm) is updated every Tuesday. And Slack is _thirsty_.
+It looks like the Patent and Trademark Office's new API is only [updated once every two months](http://www.patentsview.org/api/faqs.html). The [ancient, creaking web service](http://patft.uspto.gov/netahtml/PTO/search-adv.htm) is updated every Tuesday. And Slack is _thirsty_.
 
 ### Prereqs
 * `python`
