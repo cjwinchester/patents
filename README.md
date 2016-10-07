@@ -35,6 +35,7 @@ If the city has more than one word, enclose it in quotes:
 
 ### Output
 If you get any hits, you'll see two new files in your working directory:
+
 1. `links_to_recent_patents.txt`: A newline-separated list of links returned by your search. Saving locally means you won't hammer the government servers needlessly.
 2. `{YYYY-MM-DD}-recent-inventions.json`: A JSON file with an array of objects that look like this:
 
